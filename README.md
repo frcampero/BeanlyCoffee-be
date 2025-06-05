@@ -9,7 +9,6 @@ This repository contains the backend for **Beanly**, a premium coffee eCommerce 
 - [Strapi](https://strapi.io/) (v4)
 - PostgreSQL
 - REST API (optionally GraphQL)
-- Cloudinary (for image uploads)
 - Stripe (optional, for payments)
 
 ---
