@@ -1,5 +1,5 @@
-module.exports = {
-  'transfer': {
+export default {
+  transfer: {
     enabled: true,
   },
 };
