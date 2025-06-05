@@ -69,18 +69,6 @@ npm run develop
 
 ---
 
-## 🖼️ Image Uploads
-
-We use **Cloudinary** for image hosting. To enable it:
-
-```bash
-npm install @strapi/provider-upload-cloudinary
-```
-
-And configure the upload plugin accordingly in `config/plugins.js`.
-
----
-
 ## 🔐 Roles & Permissions
 
 To allow frontend access:
