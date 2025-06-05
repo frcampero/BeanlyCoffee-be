@@ -91,7 +91,7 @@ To allow frontend access:
 
 ## 🧑‍💻 Author
 
-Developed by [Your Name or GitHub Username](https://github.com/frcampero)
+Developed by [Federico Campero](https://github.com/frcampero)
 
 ---
 
