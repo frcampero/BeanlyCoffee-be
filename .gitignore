@@ -36,8 +36,6 @@ dist/
 pids/
 logs/
 results/
-public/uploads/
-public/uploads/*
 !public/uploads/.gitkeep
 
 ##########################
